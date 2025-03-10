@@ -89,3 +89,5 @@ resetButtonEl.addEventListener("click", () => {
   messageEl.innerText = currentPlayerTurn();
   document.querySelectorAll(".sqr").forEach((sqr) => (sqr.innerText = ""));
 });
+
+why won't it let me push!?
